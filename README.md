@@ -1,2 +1,5 @@
 # type-challenges
-开始做操
+
+typeScript 类型体操。
+
+开始做操！
