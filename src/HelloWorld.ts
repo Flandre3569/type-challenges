@@ -1,3 +1,5 @@
+import { Equal, Expect } from "../utils";
+
 // expected to be string
 type HelloWorld = string;
 
